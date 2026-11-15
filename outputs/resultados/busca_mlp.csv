@@ -1,0 +1,9 @@
+parametros,mean_test_score,std_test_score
+"{'learning_rate_init': 0.003, 'hidden_layer_sizes': (64,), 'alpha': 0.0001}",0.44674113758592277,0.004257660269026151
+"{'learning_rate_init': 0.001, 'hidden_layer_sizes': (128,), 'alpha': 0.01}",0.44642131485903075,0.0056205600321344446
+"{'learning_rate_init': 0.001, 'hidden_layer_sizes': (64,), 'alpha': 0.01}",0.4452975183586502,0.0035040841331365107
+"{'learning_rate_init': 0.001, 'hidden_layer_sizes': (64,), 'alpha': 0.001}",0.4443915837496634,0.004570863734804027
+"{'learning_rate_init': 0.003, 'hidden_layer_sizes': (64,), 'alpha': 0.001}",0.443822935396237,0.0032781571557825547
+"{'learning_rate_init': 0.003, 'hidden_layer_sizes': (128,), 'alpha': 0.001}",0.44076098564439237,0.00523290496461837
+"{'learning_rate_init': 0.001, 'hidden_layer_sizes': (64,), 'alpha': 0.0001}",0.43988577866991824,0.0018390184403708134
+"{'learning_rate_init': 0.003, 'hidden_layer_sizes': (128, 64), 'alpha': 0.001}",0.4280715304677831,0.006612433630956736

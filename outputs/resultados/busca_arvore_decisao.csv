@@ -1,0 +1,15 @@
+parametros,mean_test_score,std_test_score
+"{'min_samples_leaf': 30, 'max_depth': 6, 'criterion': 'gini'}",0.41426597138512444,0.010922764979902334
+"{'min_samples_leaf': 10, 'max_depth': 10, 'criterion': 'gini'}",0.413110487615735,0.0071039962414093105
+"{'min_samples_leaf': 10, 'max_depth': 4, 'criterion': 'gini'}",0.4128321890054249,0.0072285859389473765
+"{'min_samples_leaf': 10, 'max_depth': 6, 'criterion': 'entropy'}",0.40804736313169787,0.013062128603102102
+"{'min_samples_leaf': 10, 'max_depth': 14, 'criterion': 'gini'}",0.40606984216222514,0.004765761346754601
+"{'min_samples_leaf': 10, 'max_depth': 14, 'criterion': 'entropy'}",0.4055605608257465,0.002962389263561157
+"{'min_samples_leaf': 30, 'max_depth': 14, 'criterion': 'gini'}",0.39882453976559046,0.003838856864404101
+"{'min_samples_leaf': 100, 'max_depth': 8, 'criterion': 'gini'}",0.3988106080892924,0.0012942565926797097
+"{'min_samples_leaf': 30, 'max_depth': 14, 'criterion': 'entropy'}",0.3965760807280838,0.006348599787586588
+"{'min_samples_leaf': 100, 'max_depth': 20, 'criterion': 'entropy'}",0.3955117577602121,0.0060065916995094715
+"{'min_samples_leaf': 100, 'max_depth': 20, 'criterion': 'gini'}",0.39231777368923165,0.0019097231906397057
+"{'min_samples_leaf': 100, 'max_depth': 8, 'criterion': 'entropy'}",0.39090243462606383,0.009374868251619265
+"{'min_samples_leaf': 30, 'max_depth': 20, 'criterion': 'gini'}",0.38716808738473424,0.0030440577003938213
+"{'min_samples_leaf': 30, 'max_depth': 20, 'criterion': 'entropy'}",0.38444299272104954,0.009675644972727484

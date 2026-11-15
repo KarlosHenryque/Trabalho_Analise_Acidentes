@@ -1,0 +1,5 @@
+,Q1,Q3,limite_inf,limite_sup,n_outliers,% outliers
+"idade (bruta, pessoas)",28.0,50.0,-5.0,83.0,416.0,0.33736933020834176
+idade do veículo (corrigida),4.0,16.0,-14.0,34.0,1597.0,1.300869961878075
+km (acidentes),77.5,408.0,-418.25,903.75,581.0,1.0605866997681679
+pessoas por acidente,1.0,3.0,-2.0,6.0,1214.0,2.211494671645869

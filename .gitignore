@@ -1,0 +1,24 @@
+# Ambiente virtual e caches do Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dados brutos: o CSV da PRF tem ~166 MB e passa do limite de 100 MB do GitHub.
+# Baixe em https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf
+# e salve como data/raw/acidentes2026.csv (a pasta é mantida pelo .gitkeep).
+data/raw/*
+!data/raw/.gitkeep
+
+# Modelos treinados: são regenerados ao rodar o notebook
+outputs/modelos/
+
+# Configuração local do editor e do Claude Code
+.claude/settings.local.json
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema e do Office
+.DS_Store
+Thumbs.db
+~$*
